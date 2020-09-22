@@ -71,7 +71,7 @@ hr{
 
 .copyright{
     color: #EAF6F6;
-    font-size: 0.75ren;
+    font-size: 0.75rem;
     padding: 20px 0;
 }
 
@@ -81,25 +81,24 @@ hr{
 
 .bottom-star{
     position: absolute;
-    right: 10;
+    right: 2px;
 }
 
 .top-cloud{
     position: absolute;
-    top: 10;
-    right: 10;
+    top: 10px;
+    right: 5px;
 }
 
 .top-star{
     position: absolute;
-    top: 10;
-    left: 10;
-    margin-top: 50px;
+    top: 2px;
+    left: 7px;
 }
 
 .middle-star{
     position: absolute;
-    left: 5;
+    left: 5px;
 }
 
 p{
